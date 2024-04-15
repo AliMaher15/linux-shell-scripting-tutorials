@@ -1,0 +1,1 @@
+the cat file command is to add data in the file simultaneously.
