@@ -1,0 +1,24 @@
+$0
+- filename of current script
+
+$n
+- position of script arguments $1, $2, ..
+
+$#
+- number of arguments supplied to a script
+
+$*
+- all the arguments are double quoted. ex: 2 arguments
+- $* is equivalent to "$1 $2"
+
+$@
+- all the arguments are individually dobule quoted.
+
+$?
+- the exit status of the last command executed
+
+$$
+- the process number of the current shell. process ID
+
+$!
+- the process number of the last background command
